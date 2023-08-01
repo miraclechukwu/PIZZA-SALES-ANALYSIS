@@ -1,6 +1,6 @@
 # SQL Data Analysis: Exploring Pizza Sales Data
 
-![](pizza_intro.png)
+![](/Image%20Folder/pizza_intro.png)
 
 ## Introduction
 
@@ -42,61 +42,61 @@ Now, let's dive into the insights and analytics I derived from the pizza sales d
 
 1. **Total Revenue:** The analysis revealed that the total revenue generated from pizza sales amounted to **$817,860**. This crucial metric provides an overview of the store's overall performance.
 
-![](total_revenue.JPG)
+![](/Image%20Folder/total_revenue.JPG)
 
 ---
 
 2. **Average Order Value:** By calculating the average order value, I found that the typical value of each pizza order is **$38.31**. This insight helps in understanding customer spending behavior.
 
-![](avg_order_value.JPG)
+![](/Image%20Folder/avg_order_value.JPG)
 
 ---
 
 3. **Total Pizzas Sold:** The total number of pizzas sold stood at **49,574.** Understanding the sales volume helps in inventory management and planning.
 
-![](total_pizza_sold.JPG)
+![](/Image%20Folder/total_pizza_sold.JPG)
 
 ---
 
 4. **Total Orders Placed:** The number of orders placed summed up to **21,350,** indicating the total engagement with customers.
 
-![](total_orders_placed.JPG)
+![](/Image%20Folder/total_orders_placed.JPG)
 
 ---
 
 5. **Average Number of Pizzas Sold per Order:** The average number of pizzas sold per order was **2.32.** This insight aids in analyzing customer preferences and bundling strategies.
 
-![](avg_pizza_per_order.JPG)
+![](/Image%20Folder/avg_pizza_per_order.JPG)
 
 ---
 
 6. **Daily Trend:** We analyzed the daily sales trend to identify the number of orders placed on each day of the week.
 
-![](daily_trend.JPG)
+![](/Image%20Folder/daily_trend.JPG)
 
 ---
 7. **Monthly Trend:** We explored the monthly sales trend to understand the variation in sales over the months.
 
-![](monthly_trend.JPG)
+![](/Image%20Folder/monthly_trend.JPG)
 
 ---
 8. **Percentage of Sales by Pizza Category:** We calculated the percentage of total sales for each pizza category and size to identify popular choices.
 
-![](percentage_sales_by_category.JPG)
+![](/Image%20Folder/percentage_sales_by_category.JPG)
 
 ---
 9. **Percentage of Sales by Pizza Size:** We calculated the percentage of total sales for each pizza category and size to identify popular choices.
 
-![](percentage_sales_by_size.JPG)
+![](/Image%20Folder/percentage_sales_by_size.JPG)
 
 ---
 10. **Top and Bottom Performing Pizzas:** We identified the top 5 pizzas based on revenue, quantity sold, and number of orders, as well as the bottom 5 pizzas in these categories.
 
 Top Performing Pizza            |  Bottom Performing Pizza 
 :------------------------------:|:--------------------:
-![](top_5_pizza_by_order.JPG)   |  ![](bottom_5_pizza_by_order.JPG)
-![]( top_5_pizza_by_quantity.JPG)   |  ![](bottom_5_pizza_by_quantity.JPG)
-![](top_5_pizza_by_revenue.JPG)   |  ![](bottom_5_pizza_by_revenue.JPG)
+![](/Image%20Folder/top_5_pizza_by_order.JPG)   |  ![](/Image%20Folder/bottom_5_pizza_by_order.JPG)
+![](/Image%20Folder/top_5_pizza_by_quantity.JPG)   |  ![](/Image%20Folder/bottom_5_pizza_by_quantity.JPG)
+![](/Image%20Folder/top_5_pizza_by_revenue.JPG)   |  ![](/Image%20Folder/bottom_5_pizza_by_revenue.JPG)
    
 ## Conclusion and Recommendation
 
