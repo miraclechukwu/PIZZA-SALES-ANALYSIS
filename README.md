@@ -1,10 +1,21 @@
 # SQL Data Analysis: Exploring Pizza Sales Data
 
-
+![](pizza_intro.png)
 
 ## Introduction
 
 Hello there! I am excited to present the results of my Pizza Sales Data Analysis project. In this project, i analyzed pizza sales data using various **SQL** queries, I explored a comprehensive dataset containing detailed information about pizza orders, including order details, pizza category, size, quantity, prices, and order dates. My goal was to leverage SQL to answer key questions related to total revenue, average order value, top-selling pizzas, and sales trends.
+
+## Problem Statement
+The pizza store aims to understand key aspects of its sales data to optimize its business strategies. Some of the specific questions we seek to address are:
+
+- What is the total revenue generated from pizza sales?
+- What is the average order value for pizza purchases?
+- How many pizzas have been sold in total?
+- How many unique orders have been placed?
+- What is the average number of pizzas sold per order?
+
+Additionally, we will explore trends related to daily and monthly sales, sales distribution across different pizza categories and sizes, and identify the top and bottom performing pizzas based on revenue, quantity, and number of orders.
 
 ## Data Cleaning Techniques and SQL Syntax Used
 
@@ -29,18 +40,73 @@ To ensure accurate analysis, I applied essential data cleaning techniques using 
 
 Now, let's dive into the insights and analytics I derived from the pizza sales data using SQL:
 
-1. **Total Revenue:** The analysis revealed that the total revenue generated from pizza sales amounted to $X,XXX,XXX. This crucial metric provides an overview of the store's overall performance.
+1. **Total Revenue:** The analysis revealed that the total revenue generated from pizza sales amounted to **$817,860**. This crucial metric provides an overview of the store's overall performance.
 
-2. **Average Order Value:** By calculating the average order value, I found that the typical value of each pizza order is $XX.XX. This insight helps in understanding customer spending behavior.
+![](total_revenue.JPG)
 
-3. **Total Pizzas Sold:** The total number of pizzas sold stood at XXX,XXX. Understanding the sales volume helps in inventory management and planning.
+---
 
-4. **Total Orders Placed:** The number of orders placed summed up to XXX, indicating the total engagement with customers.
+2. **Average Order Value:** By calculating the average order value, I found that the typical value of each pizza order is **$38.31**. This insight helps in understanding customer spending behavior.
 
-5. **Average Number of Pizzas Sold per Order:** The average number of pizzas sold per order was X.XX. This insight aids in analyzing customer preferences and bundling strategies.
+![](avg_order_value.JPG)
 
-## Conclusion
+---
 
-Through SQL data analysis, I successfully gained valuable insights into the pizza store's performance. The utilization of data cleaning techniques and various SQL syntax ensured the accuracy and reliability of the results. The key analytics and insights provided, such as total revenue, average order value, and sales trends, are instrumental in driving data-driven decision-making for the pizza store's management.
+3. **Total Pizzas Sold:** The total number of pizzas sold stood at **49,574.** Understanding the sales volume helps in inventory management and planning.
 
-I am thrilled to have taken this journey of pizza sales data analysis using SQL, where I uncovered essential business insights! 🍕📊🔍
+![](total_pizza_sold.JPG)
+
+---
+
+4. **Total Orders Placed:** The number of orders placed summed up to **21,350,** indicating the total engagement with customers.
+
+![](total_orders_placed.JPG)
+
+---
+
+5. **Average Number of Pizzas Sold per Order:** The average number of pizzas sold per order was **2.32.** This insight aids in analyzing customer preferences and bundling strategies.
+
+![](avg_pizza_per_order.JPG)
+
+---
+
+6. **Daily Trend:** We analyzed the daily sales trend to identify the number of orders placed on each day of the week.
+
+![](daily_trend.JPG)
+
+---
+7. **Monthly Trend:** We explored the monthly sales trend to understand the variation in sales over the months.
+
+![](monthly_trend.JPG)
+
+---
+8. **Percentage of Sales by Pizza Category:** We calculated the percentage of total sales for each pizza category and size to identify popular choices.
+
+![](percentage_sales_by_category.JPG)
+
+---
+9. **Percentage of Sales by Pizza Size:** We calculated the percentage of total sales for each pizza category and size to identify popular choices.
+
+![](percentage_sales_by_size.JPG)
+
+---
+10. **Top and Bottom Performing Pizzas:** We identified the top 5 pizzas based on revenue, quantity sold, and number of orders, as well as the bottom 5 pizzas in these categories.
+
+Top Performing Pizza            |  Bottom Performing Pizza 
+:------------------------------:|:--------------------:
+![](top_5_pizza_by_order.JPG)   |  ![](bottom_5_pizza_by_order.JPG)
+![]( top_5_pizza_by_quantity.JPG)   |  ![](bottom_5_pizza_by_quantity.JPG)
+![](top_5_pizza_by_revenue.JPG)   |  ![](bottom_5_pizza_by_revenue.JPG)
+   
+## Conclusion and Recommendation
+
+In conclusion, this SQL-based Pizza Sales Data Analysis project has provided valuable insights into the store's sales performance and customer preferences. The analysis highlights opportunities to optimize sales strategies, promote popular pizza choices, and enhance the overall customer experience.
+
+Based on the insights derived, we recommend the following actions:
+
+- Promote Top-Performing Pizzas: Focus marketing efforts on the top-selling pizzas to capitalize on their popularity.
+- Enhance Average Order Value: Implement strategies like bundle deals or promotions to increase the average order value.
+- Explore Monthly Trends: Identify reasons behind fluctuations in sales across months and tailor marketing efforts accordingly.
+- Improve Pizza Categories: Consider expanding or refining the pizza categories based on their sales performance.
+
+By implementing these recommendations, the pizza store can optimize its operations, cater to customer preferences, and boost its overall sales and profitability.
